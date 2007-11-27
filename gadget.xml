@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
   <!-- You can modify this file to customize your gadget information. -->
-  <ModulePrefs title="臺大電子報"
-               title_url="http://ntu-epaper.googlemashups.com/index.html"/>
+  <ModulePrefs title="臺大電子報"/>
 
   <!-- For more information, see: -->
   <!--   http://google.com/apis/gadgets/reference.html#Moduleprefs_Ref -->

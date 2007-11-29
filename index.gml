@@ -2,7 +2,7 @@
 <style>
 
    #gm-signin {
-    display: inline
+    display: none
    }
  </style>
 <div style="float: left; width: 50%"> 
